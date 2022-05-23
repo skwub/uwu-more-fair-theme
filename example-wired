@@ -13,7 +13,7 @@
     --button-hover-background-color: var(--secondary-color);
 
     font-family: 'Futura Medium', 'Franklin Gothic Medium', 'Helvetica', 'Arial', sans-serif;
-    cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
+    cursor: url("https://ih1.redbubble.net/image.541779329.1884/flat,1000x1000,075,f.u1.jpg"), auto;
     opacity: 1;
     color: var(--main-color);
     background-image: url('https://fauux.neocities.org/bg205.gif');
