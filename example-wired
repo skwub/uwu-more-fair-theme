@@ -6,13 +6,13 @@
 
 :root.wired body {
 
-    --button-color: #c1b492;
+    --button-color: #fab9c8;
     --main-color: #bf8599;
     --secondary-color: #fab9c8;
-    --active-color: #c1b49222;
+    --active-color: #c1fab9c8;
     --button-hover-background-color: var(--secondary-color);
 
-    font-family: 'Consolas', sans-serif;
+    font-family: 'Futura', sans-serif;
     cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
     opacity: 1;
     color: var(--main-color);
