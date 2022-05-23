@@ -1,10 +1,10 @@
 
 
-:root.wired button:not(.accordion-button):hover {
+:root.uwu button:not(.accordion-button):hover {
   color: black !important;
 }
 
-:root.wired body {
+:root.uwu body {
 
     --button-color: #fab9c8;
     --main-color: #bf8599;
@@ -20,63 +20,63 @@
     background-blend-mode: screen;
 }
 
-:root.wired .promoted td {
+:root.uwu .promoted td {
     color: var(--main-color);
 }
 
-:root.wired .promoted {
+:root.uwu .promoted {
     background-color: rgba(0, 0, 0, 0.25);
 }
 
-:root.wired thead th {
+:root.uwu thead th {
     background-color: rgba(0, 0, 0, 0.94);
     font-size: 1.1rem;
 }
 
-:root.wired thead {
+:root.uwu thead {
     top: -.5rem;
 }
 
-:root.wired tr {
+:root.uwu tr {
     font-size: 1.05rem;
 }
 
-:root.wired .ladder-row tr:not(.promoted, .you) td {
+:root.uwu .ladder-row tr:not(.promoted, .you) td {
     color: var(--secondary-color);
     background-color: var(--active-color);
 }
 
-:root.wired nav {
+:root.uwu nav {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-:root.wired .message {
+:root.uwu .message {
     padding-right: 5px;
 }
 
-:root.wired .message-header {
+:root.uwu .message-header {
     justify-content: space-around;
 }
 
-:root.wired .message-date {
+:root.uwu .message-date {
     color: #c1b492bb;
     opacity: 0.8;
     align-content: flex-end;
 }
 
-:root.wired body:before {
+:root.uwu body:before {
 
     background-position: 50% 0;
 }
 
 
-:root.wired .text-highlight,
-:root.wired .message-user-id,
-:root.wired .chat-mention-user-id {
+:root.uwu .text-highlight,
+:root.uwu .message-user-id,
+:root.uwu .chat-mention-user-id {
     color: var(--secondary-color);
 }
 
-:root.wired table {
+:root.uwu table {
     -ms-overflow-style: none;
     /* Internet Explorer 10+ */
     scrollbar-width: none;
@@ -84,30 +84,30 @@
     margin-bottom: 4px;
 }
 
-:root.wired table::-webkit-scrollbar {
+:root.uwu table::-webkit-scrollbar {
     display: none;
     /* Safari and Chrome */
 }
 
-:root.wired table thead tr {
+:root.uwu table thead tr {
     color: var(--secondary-color);
     font-size: 1.1rem;
 }
 
-:root.wired table tbody tr {
+:root.uwu table tbody tr {
     font-size: 1.05rem;
 }
 
-:root.wired tbody:first:child {
+:root.uwu tbody:first:child {
     position: sticky;
 }
 
-:root.wired .btn,
-:root.wired a {
+:root.uwu .btn,
+:root.uwu a {
     cursor: url("https://fauux.neocities.org/cursor2.gif"), auto;
 }
 
-:root.wired btn-group .dropdown {
+:root.uwu btn-group .dropdown {
     border-radius: .25rem;
     border-top-left-radius: 0.25rem;
     border-bottom-left-radius: 0.25rem;
@@ -116,60 +116,60 @@
 
 }
 
-:root.wired #chatInput,
-:root.wired .btn-outline-primary,
-:root.wired .btn-outline-primary[data-v-02a2ccc4],
-:root.wired .btn-outline-primary[data-v-c6031280] {
+:root.uwu #chatInput,
+:root.uwu .btn-outline-primary,
+:root.uwu .btn-outline-primary[data-v-02a2ccc4],
+:root.uwu .btn-outline-primary[data-v-c6031280] {
     color: var(--secondary-color) !important;
     border-color: var(--main-color) !important;
     outline-color: var(--main-color) !important;
 }
 
-:root.wired #chatInput::placeholder {
+:root.uwu #chatInput::placeholder {
     color: var(--secondary-color);
 }
 
-:root.wired .btn-outline-primary.active,
-:root.wired .btn-outline-primary.show .btn-outline-primary.hover {
+:root.uwu .btn-outline-primary.active,
+:root.uwu .btn-outline-primary.show .btn-outline-primary.hover {
     background-color: var(--main-color);
 }
 
-:root.wired #chatInput[data-v-02a2ccc4] {
+:root.uwu #chatInput[data-v-02a2ccc4] {
     color: var(--main-color);
     border: 1px solid var(--main-color);
 }
 
-:root.wired .navbar .navbar-toggler,
-:root.wired .navbar .navbar-toggler i {
+:root.uwu .navbar .navbar-toggler,
+:root.uwu .navbar .navbar-toggler i {
     color: var(--main-color);
     border-color: var(--main-color);
 }
 
-:root.wired .ladder-row .you {
+:root.uwu .ladder-row .you {
     background-color: var(--secondary-color);
     color: #000;
 }
 
-:root.wired .you .text-end {
+:root.uwu .you .text-end {
     font-weight: bold;
 }
 
-:root.wired .chat-window {
+:root.uwu .chat-window {
     height: 97%;
 }
 
-:root.wired .chat-content,
-:root.wired .row .py-1 .ladder-row {
+:root.uwu .chat-content,
+:root.uwu .row .py-1 .ladder-row {
     scrollbar-width: none;
 }
 
-:root.wired .message-header,
-:root.wired .chat-mention,
-:root.wired .chat-mention-at {
+:root.uwu .message-header,
+:root.uwu .chat-mention,
+:root.uwu .chat-mention-at {
     color: var(--main-color);
 }
 
-:root.wired {
+:root.uwu {
     --eta-best: green;
     --eta-mid: orange;
     --eta-worst: red;
