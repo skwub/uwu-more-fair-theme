@@ -1,2 +1,3 @@
-# more-fair-theme-template
-Template for More Fair Game
+# More Fair Game Theme Template
+
+Hi! This is a template for More Fair Game.
