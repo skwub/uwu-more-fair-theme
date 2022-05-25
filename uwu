@@ -17,7 +17,8 @@
     opacity: 1;
     color: var(--main-color);
     background-image: url('https://img.wallpapersafari.com/desktop/1600/900/32/22/ZMEcmq.jpg');
-    background-size: auto;
+    background-size: cover;
+    background-position: center;
     background-blend-mode: screen;
 }
 
