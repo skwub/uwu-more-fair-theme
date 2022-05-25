@@ -2,7 +2,7 @@
     --main-color: white;
     --main-secondary-color: white;
     --background-color: #ffbbee;
-    --background-dark-color: #ff0000;
+    --background-dark-color: #ffbbee;
     --background-light-color: black;
     --placeholder-color: gray;
     --item-selected-color: gray;
