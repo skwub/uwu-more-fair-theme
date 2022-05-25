@@ -21,7 +21,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-blend-mode: normal;
+    background-blend-mode: lighten;
 }
 
 :root.uwu .promoted td {
