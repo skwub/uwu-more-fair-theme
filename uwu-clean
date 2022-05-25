@@ -3,7 +3,7 @@
     --main-secondary-color: white;
     --background-color: #ffbbee;
     --background-dark-color: #ff77aa;
-    --background-light-color: #ffbbee;
+    --background-light-color: #ff99cc;
     --placeholder-color: #ff5588;
     --item-selected-color: #ff5588;
     --eta-best: white;
