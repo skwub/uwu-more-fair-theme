@@ -61,7 +61,7 @@
 }
 
 :root.uwu .message-date {
-    color: #c1b492bb;
+    color: #c1ff3377;
     opacity: 0.8;
     align-content: flex-end;
 }
@@ -106,7 +106,7 @@
 
 :root.uwu .btn,
 :root.uwu a {
-    cursor: url("https://fauux.neocities.org/cursor2.gif"), auto;
+    cursor: auto;
 }
 
 :root.uwu btn-group .dropdown {
