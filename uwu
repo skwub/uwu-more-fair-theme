@@ -6,10 +6,10 @@
 
 :root.uwu body {
 
-    --button-color: #fab9c8;
-    --main-color: #bf8599;
-    --secondary-color: #fab9c8;
-    --active-color: #c1fab9c8;
+    --button-color: #ffbbee;
+    --main-color: #ff99cc;
+    --secondary-color: #ff77aa;
+    --active-color: #c1ff99cc;
     --button-hover-background-color: var(--secondary-color);
 
     font-family: 'Futura Medium', 'Franklin Gothic Medium', 'Helvetica', 'Arial', sans-serif;
