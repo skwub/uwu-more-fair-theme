@@ -2,8 +2,8 @@
     --main-color: white;
     --main-secondary-color: white;
     --background-color: #ffbbee;
-    --background-dark-color: #ff3377;
-    --background-light-color: black;
+    --background-dark-color: #ff77aa;
+    --background-light-color: #ff99cc;
     --placeholder-color: gray;
     --item-selected-color: gray;
     --eta-best: white;
