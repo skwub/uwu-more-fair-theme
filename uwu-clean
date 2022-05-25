@@ -1,0 +1,28 @@
+:root.uwu {
+    --main-color: white;
+    --main-secondary-color: white;
+    --background-color: black;
+    --background-dark-color: black;
+    --background-light-color: black;
+    --placeholder-color: gray;
+    --item-selected-color: gray;
+    --eta-best: white;
+    --eta-mid: darkgray;
+    --eta-worst: gray;
+    --text-color: white;
+    --text-light-highlight-color: var(--main-secondary-color);
+    --text-dark-highlight-color: var(--main-secondary-color);
+    --text-error-color: var(--placeholder-color);
+    --button-color: var(--main-secondary-color);
+    --button-hover-color: var(--background-color);
+    --button-hover-background-color: var(--button-color);
+    --you-color: var(--background-dark-color);
+    --you-background-color: var(--text-dark-highlight-color);
+    --promoted-color: var(--text-light-highlight-color);
+    --promoted-background-color: var(--background-dark-color);
+    --header-color: var(--main-color);
+    --navbar-color: var(--background-dark-color);
+    --offcanvas-background-color: var(--background-light-color);
+    --link-hover-color: gray;
+    --link-color: white;
+}
