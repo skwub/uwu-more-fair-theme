@@ -9,7 +9,7 @@
     --button-color: #ff5588;
     --main-color: #ff3377;
     --secondary-color: #ff99cc;
-    --active-color: #c1ff77aa;
+    --active-color: #c1ff5588;
     --button-hover-background-color: var(--secondary-color);
 
     font-family: 'Futura Medium', 'Franklin Gothic Medium', 'Helvetica', 'Arial', sans-serif;
