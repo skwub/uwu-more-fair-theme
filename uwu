@@ -6,8 +6,8 @@
 
 :root.uwu body {
 
-    --button-color: #ff99cc;
-    --main-color: #ff77aa;
+    --button-color: #ff5588;
+    --main-color: #ff3377;
     --secondary-color: #ff99cc;
     --active-color: #c1ff77aa;
     --button-hover-background-color: var(--secondary-color);
