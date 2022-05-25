@@ -19,6 +19,7 @@
     background-image: url('https://img.wallpapersafari.com/desktop/1600/900/32/22/ZMEcmq.jpg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     background-blend-mode: screen;
 }
 
