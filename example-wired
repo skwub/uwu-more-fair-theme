@@ -13,7 +13,7 @@
     --button-hover-background-color: var(--secondary-color);
 
     font-family: 'Futura Medium', 'Franklin Gothic Medium', 'Helvetica', 'Arial', sans-serif;
-    cursor: url('cursor.cur'), auto;
+    cursor: url('https://github.com/skwub/more-fair-theme-template/blob/98bd2743955528e859254ee9bf02b2a28f2cf386/cursor.cur'), auto;
     opacity: 1;
     color: var(--main-color);
     background-image: url('https://fauux.neocities.org/bg205.gif');
