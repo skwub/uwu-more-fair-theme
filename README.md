@@ -1,3 +1,3 @@
-# More Fair Game Theme Template
+# UwU Theme for More Fair Game
 
-Hi! This is a template for More Fair Game.
+Hi! This is the UwU theme for More Fair Game.
