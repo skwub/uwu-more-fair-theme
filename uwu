@@ -1,5 +1,5 @@
 :root.uwu {
-    --main-color: #5912cc;
+    --main-color: #6d16ff;
     --main-secondary-color: #6d16ff;
     --background-color: #ffbbee;
     --background-dark-color: #ff77aa;
@@ -9,7 +9,7 @@
     --eta-best: #6d16ff;
     --eta-mid: #6d16ff;
     --eta-worst: #6d16ff;
-    --text-color: #6d16ff;
+    --text-color: #5912cc;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
     --text-error-color: var(--placeholder-color);
