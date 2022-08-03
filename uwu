@@ -9,7 +9,7 @@
     --eta-best: white;
     --eta-mid: darkgray;
     --eta-worst: gray;
-    --text-color: #6f16ff;
+    --text-color: white;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
     --text-error-color: var(--placeholder-color);
@@ -43,7 +43,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    text-color: #6f16ff;
+    text-color: white;
 }
 
 :root.uwu .btn,
