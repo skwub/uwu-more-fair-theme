@@ -1,15 +1,15 @@
 :root.uwu {
-    --main-color: #6d16ff;
-    --main-secondary-color: #6d16ff;
+    --main-color: white;
+    --main-secondary-color: white;
     --background-color: #ffbbee;
     --background-dark-color: #ff77aa;
     --background-light-color: #ff99cc;
     --placeholder-color: #ff5588;
     --item-selected-color: #ff5588;
-    --eta-best: #6d16ff;
-    --eta-mid: #6d16ff;
-    --eta-worst: #6d16ff;
-    --text-color: #6d16ff;
+    --eta-best: white;
+    --eta-mid: darkgray;
+    --eta-worst: gray;
+    --text-color: white;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
     --text-error-color: var(--placeholder-color);
@@ -17,20 +17,20 @@
     --button-hover-color: var(--background-color);
     --button-hover-background-color: var(--button-color);
     --you-color: var(--background-dark-color);
-    --you-background-color: #000000;
+    --you-background-color: var(--text-dark-highlight-color);
     --promoted-color: var(--text-light-highlight-color);
     --promoted-background-color: var(--background-dark-color);
     --header-color: var(--main-color);
     --navbar-color: var(--background-dark-color);
     --offcanvas-background-color: var(--background-light-color);
     --link-hover-color: #ff3377;
-    --link-color: #6d16ff;
+    --link-color: white;
 }
 
 :root.uwu body {
 
     --button-color: #ff5588;
-    --main-color: #6d16ff;
+    --main-color: #ff3377;
     --secondary-color: #ff5588;
     --active-color: #c1ff5588;
     --button-hover-background-color: var(--secondary-color);
