@@ -9,7 +9,7 @@
     --eta-best: #6d16ff;
     --eta-mid: #6d16ff;
     --eta-worst: #6d16ff;
-    --text-color: #5912cc;
+    --text-color: #6d16ff;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
     --text-error-color: var(--placeholder-color);
@@ -17,7 +17,7 @@
     --button-hover-color: var(--background-color);
     --button-hover-background-color: var(--button-color);
     --you-color: var(--background-dark-color);
-    --you-background-color: var(--text-dark-highlight-color);
+    --you-background-color: #5912cc;
     --promoted-color: var(--text-light-highlight-color);
     --promoted-background-color: var(--background-dark-color);
     --header-color: var(--main-color);
