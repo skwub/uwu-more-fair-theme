@@ -1,6 +1,6 @@
 :root.uwu {
     --main-color: white;
-    --main-secondary-color: white;
+    --main-secondary-color: #6d16ff;
     --background-color: #ffbbee;
     --background-dark-color: #ff77aa;
     --background-light-color: #ff99cc;
