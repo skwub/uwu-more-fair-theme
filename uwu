@@ -1,14 +1,14 @@
 :root.uwu {
-    --main-color: white;
+    --main-color: #6d16ff;
     --main-secondary-color: #6d16ff;
     --background-color: #ffbbee;
     --background-dark-color: #ff77aa;
     --background-light-color: #ff99cc;
     --placeholder-color: #ff5588;
     --item-selected-color: #ff5588;
-    --eta-best: white;
-    --eta-mid: darkgray;
-    --eta-worst: gray;
+    --eta-best: #6d16ff;
+    --eta-mid: #6d16ff;
+    --eta-worst: #6d16ff;
     --text-color: #6d16ff;
     --text-light-highlight-color: var(--main-secondary-color);
     --text-dark-highlight-color: var(--main-secondary-color);
@@ -24,7 +24,7 @@
     --navbar-color: var(--background-dark-color);
     --offcanvas-background-color: var(--background-light-color);
     --link-hover-color: #ff3377;
-    --link-color: white;
+    --link-color: #6d16ff;
 }
 
 :root.uwu body {
